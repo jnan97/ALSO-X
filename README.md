@@ -6,20 +6,20 @@ Programs Revisited” The paper.
 Below is the detailed explanation of each subfolder.
 
 # Subfolder: Experiment 1
-Testing in CCP.
+**Testing in CCP.** 
 
 
 # Subfolder: Experiment 2
-Covering CCP.
+**Covering CCP.**
 
 
 # Subfolder: Experiment 3
-Testing in DRCCP.
+**Testing in DRCCP.**
 
 
 
 # Subfolder: Experiment 4
-Illustration Example in DRCCP with Gaussian reference distirbution.
+**Illustration Example in DRCCP with Gaussian reference distirbution.**
 
 
 
