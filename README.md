@@ -6,22 +6,28 @@ Below is the detailed explanation of each subfolder.
 
 # Subfolder: Experiment 1
 **Testing in CCPs.**
-* Purpose:
-* Source code info:
+* **Purpose:**
+* **Source code info:**
 
 
 
 # Subfolder: Experiment 2
 **Comparisions in Covering CCPs.**
+* **Purpose:**
+* **Source code info:**
 
 
 # Subfolder: Experiment 3
 **Testing in DRCCPs.**
+* **Purpose:**
+* **Source code info:**
 
 
 
 # Subfolder: Experiment 4
 **Illustration Example in a DRCCP with Gaussian reference distirbution.**
+* **Purpose:**
+* **Source code info:**
 
 
 
