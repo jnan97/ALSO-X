@@ -6,8 +6,8 @@ Below is the detailed explanation of each subfolder.
 
 # Subfolder: Experiment 1
 **Testing in CCPs.**
-- Purpose:
-- SOurce code info:
+*Purpose:
+*Source code info:
 
 
 # Subfolder: Experiment 2
