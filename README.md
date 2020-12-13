@@ -1,7 +1,7 @@
 # Introduction 
 
 This folder contains the source code (i.e., .py files) used in the paper “ALSO-X is Better Than CVaR: Convex Approximations for Chance Constrained
-Programs Revisited” The paper proposed two algorithms, termed "ALSO-X" and "ALSO-X+", to solve CCPs and DRCCPs, correspodning to subfolders Experiment 1-2 and subfolders Experiment 3-4. To successfully run the code in subfolders, you may need to install Python (i.e. .py files) and Matlab (i.e. .m files).
+Programs Revisited.” The paper proposed two algorithms, termed "ALSO-X" and "ALSO-X+," to solve CCPs and DRCCPs, correspodning to subfolders Experiment 1-2 and subfolders Experiment 3-4. To successfully run the code in subfolders, you may need to install Python (i.e. .py files) and Matlab (i.e. .m files).
 Below is the detailed explanation of each subfolder.
 
 # Subfolder: Experiment 1
