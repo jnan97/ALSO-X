@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
 # Introduction 
 
 This folder contains the source code (i.e., .py files) used in the paper “ALSO-X is Better Than CVaR: Convex Approximations for Chance Constrained
@@ -20,7 +24,7 @@ Below is the detailed explanation of each subfolder.
 # Subfolder: Experiment 3
 **Testing in DRCCPs.**
 * **Purpose:** Experiment 3 was implemented to test the performance of the worst-case ALSO-X and the worst-case ALSO-X+ for solving DRCCP. 
-* **Source code info:** The code folder includes three .py files. "1 Wasserstein with 2 norm. py" and "1 Wasserstein with 2 norm & tuning. py" are the codes for implementations in DRCCP with 1-Wasserstein ambiguity set with 2-norm and the penalized version to improve the worst-case ALSO-X. "infinite Wasserstein with infinite norm. py" is the code for implementations in DRCCP with `\infty`-Wasserstein ambiguity set with `\infty`-norm. 
+* **Source code info:** The code folder includes three .py files. "1 Wasserstein with 2 norm. py" and "1 Wasserstein with 2 norm & tuning. py" are the codes for implementations in DRCCP with 1-Wasserstein ambiguity set with 2-norm and the penalized version to improve the worst-case ALSO-X. "infinite Wasserstein with infinite norm. py" is the code for implementations in DRCCP with \\(\infty\\)-Wasserstein ambiguity set with `\infty`-norm. 
 
 
 # Subfolder: Experiment 4
