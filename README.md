@@ -21,7 +21,7 @@ Below is the detailed explanation of each subfolder.
 # Subfolder: Experiment 3
 **Testing in DRCCPs.**
 * **Purpose:** Experiment 3 was implemented to test the performance of the worst-case ALSO-X and the worst-case ALSO-X+ for solving DRCCP. 
-* **Source code info:** The code folder includes three .py files. "1 Wasserstein with 2 norm. py" and "1 Wasserstein with 2 norm & tuning. py" are the codes for implementations in DRCCP with 1-Wasserstein ambiguity set with 2-norm and the penalized version to improve the worst-case ALSO-X. "infinite Wasserstein with infinite norm. py" is the code for implementations in DRCCP with \\($\infty$\\)-Wasserstein ambiguity set with `\infty`-norm. 
+* **Source code info:** The code folder includes three .py files. "1 Wasserstein with 2 norm. py" and "1 Wasserstein with 2 norm & tuning. py" are the codes for implementations in DRCCP with 1-Wasserstein ambiguity set with 2-norm and the penalized version to improve the worst-case ALSO-X. "infinite Wasserstein with infinite norm. py" is the code for implementations in DRCCP with $`infty`$.-Wasserstein ambiguity set with `\infty`-norm. 
 
 
 # Subfolder: Experiment 4
