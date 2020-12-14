@@ -13,7 +13,7 @@ Below is the detailed explanation of each subfolder.
 
 
 # Subfolder: Experiment 2
-**Comparisions in Covering CCPs.**
+**Comparisons in Covering CCPs.**
 * **Purpose:** Experiment 2 was implemented to compare CVaR approximation, ALSO-X, ALSO-X+, and Relax-and-Scale Algorithm for solving covering CCPs.
 * **Source code info:** The code folder includes one .py file. "Covering CCP. py" is the code for implementation.
 
